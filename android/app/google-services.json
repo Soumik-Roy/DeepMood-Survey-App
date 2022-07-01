@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "498083566560",
+    "project_id": "deepmood-app",
+    "storage_bucket": "deepmood-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:498083566560:android:8b742b6074d98ae2a49185",
+        "android_client_info": {
+          "package_name": "com.deepmood.surveyapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "498083566560-md5j6e547qhejp2huck9hu0rofv5ehc4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBO7TnjoGWmztwoWhMeRNyPdLcXTcZq00I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "498083566560-md5j6e547qhejp2huck9hu0rofv5ehc4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
